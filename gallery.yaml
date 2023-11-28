@@ -1,0 +1,32 @@
+---
+# Members of your group.
+group:
+  - name: Julia Ludwig
+    netid: jal545
+  - name: Diego Fernando
+    netid: df356
+  - name: Natalia Jordan
+    netid: naj46
+  - name: Claire Yun
+    netid: cly29
+# Your PM.
+pm:
+  name: Allen Chen
+  netid: ac2324
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "The Boolin Boolean's Checkers Game"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/jal545/cs3110-project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is an interactive game of checkers. We let two players play a game
+  of checkers against each other. They can pick the look of their pieces by
+  indicating what their initials are. Each piece can move diagonally into an 
+  empty space or jump another player's piece into an empty place if applicable.
+  The game will end when one player has no pieces remaining. Once they reach the
+  end of the opponent's side, their piece becomes a king and can move forwards
+  and backwards. Good luck and happy playing!
